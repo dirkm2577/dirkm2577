@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dirk</h1>
 <h3 align="center">A passionate junior full stack developer from Germany</h3>
 
-- 🔭 I’m currently working on a Mobility Analysis App for CleverReach (NEW STACK: Python/Flask/OpenAPI backend - Vue/Vite/Pinia/TS frontend)
+- 🔭 I’m currently working on a Mobility Analysis App for CleverReach (NEW STACK: Python/Flask/OpenAPI/SQL backend - Vue/Vite/Pinia/TS frontend)
 
 - My first app that I worked on was [MyDailyDose](http://www.my-daily-dose.de/)
 
-- 🌱 I’m currently learning **React, Vue, Javascript.**
+- 🌱 I’m currently learning **React, Vue, Solidity.**
 
 - 👯 I’m looking to collaborate on **a new Flashcard App idea.**
 
-- 🤝 I’m looking for help with **connecting to interesting projects.**
+- 🤝 I’m looking for help with **connecting to interesting blockchain projects.**
 
-- 💬 Ask me about **Ruby on Rails, CSS, Bitcoin.**
+- 💬 Ask me about **Python, VueJS, Ruby on Rails, Bitcoin.**
 
 - 📫 How to reach me **dee2577@gmail.com**
 
