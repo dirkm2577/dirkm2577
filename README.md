@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dirk</h1>
 <h3 align="center">A passionate junior full stack developer from Germany</h3>
 
-- 🔭 I’m currently working on [MyDailyDose](http://www.my-daily-dose.de/)
+- 🔭 I’m currently working on a Mobility Analysis App for CleverReach (NEW STACK: Python/Flask/OpenAPI backend - Vue/Vite/Pinia/TS frontend)
+
+- My first app that I worked on was [MyDailyDose](http://www.my-daily-dose.de/)
 
 - 🌱 I’m currently learning **React, Vue, Javascript.**
 
