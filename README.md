@@ -1,25 +1,79 @@
-<h1 align="center">Hi 👋, I'm Dirk</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
+<h1 align="center">Dirk Mischke</h1>
+<h3 align="center">Full Stack Engineer · Python Backend · AI & Infrastructure Systems</h3>
 
-- 🔭 I’m currently working on a Mobility Analysis App called CleverReach (STACK: Python/Flask/OpenAPI/SQL backend - Vue/Vite/Pinia/TS frontend)
+---
 
-- My first app that I worked on was [MyDailyDose](http://www.my-daily-dose.de/)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **React, Vue, Solidity.**
+I am a full stack engineer based in Germany, currently working on production systems with a Python/Flask backend and a Vue/TypeScript frontend stack.
 
-- 👯 I’m looking to collaborate on **a new Flashcard App idea.**
+My focus areas:
 
-- 🤝 I’m looking for help with **connecting to interesting blockchain projects.**
+- Designing and implementing REST APIs (Flask + OpenAPI/Swagger)
+- Backend architecture with Python
+- Database-driven systems (MySQL / MariaDB)
+- Modern frontend applications (Vue, Vite, TypeScript, Pinia)
+- Building infrastructure-level tooling for autonomous systems
 
-- 💬 Ask me about **Python, VueJS, Ruby on Rails, Bitcoin.**
+I am particularly interested in:
+- AI agent infrastructure
+- Cryptographic identity systems
+- Deterministic backend design
+- Developer tooling (SDKs, CLI tools)
 
-- 📫 How to reach me **dee2577@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dirk-mischke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dirk mischke" height="30" width="40" /></a>
-</p>
+## 🧱 Current Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+**Backend**
+- Python
+- Flask
+- OpenAPI / Swagger
+- REST architecture
+- MySQL / MariaDB
+
+**Frontend**
+- Vue 3
+- TypeScript
+- Pinia
+- Vite
+
+**Dev & Infra**
+- Git
+- Docker
+- API design
+- CLI tooling
+- Cryptographic primitives (Ed25519, canonical JSON signing)
+
+---
+
+## 🚀 Selected Work
+
+### Identity Anchor Protocol (IAP)
+A cryptographic identity and continuity protocol for persistent autonomous agents.
+
+- Certificate Authority design
+- Canonical JSON signing
+- Ed25519 cryptography
+- Python SDK & CLI tooling
+- Offline verification primitives
+
+(Work in progress)
+
+---
+
+## 💬 Topics I Enjoy Discussing
+
+- Backend architecture in Python
+- API design best practices
+- Agent infrastructure
+- Deterministic system design
+- Cryptographic verification workflows
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/dirk-mischke
+- Email: admin@ia-protocol.com
 
